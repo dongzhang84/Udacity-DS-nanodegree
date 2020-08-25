@@ -3,7 +3,7 @@
 This is the repo for the Udacity Data Science Nanodegree program. 
 
 ---------
-**Project 1** : **Understand the Seattle Airbnb Price** is for the Introduction to Data Science project: **write a data science blog post**. 
+**Project 1** : **Understand the Seattle Airbnb Price** is for the Introduction to Data Science project.
 
 
 **Motivation**
