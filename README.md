@@ -51,4 +51,3 @@ I found that the Airbnb price shows a seasonal variation. I built a price predic
 The medium blog is here:
 
 https://medium.com/@dongzhanghz/udacity-data-science-project-understand-the-seattle-airbnb-price-aa15e8668764
-The code can be seen in [this notebook](https://github.com/dongzhang84/Udacity-DS-nanodegree/blob/master/Project_1/Seattle_Airbnb.ipynb).
