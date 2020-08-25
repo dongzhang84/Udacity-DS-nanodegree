@@ -32,19 +32,19 @@ I use pip3 install * to install all the libraries.
 
 **Dataset**
 
-The data is from the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle)
+The data is from the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle). I acknowledgements Kaggle to provide the dataset. 
 
 
 **Files in the Repository**
 
 The code was in [this notebook](https://github.com/dongzhang84/Udacity-DS-nanodegree/blob/master/Project_1/Seattle_Airbnb.ipynb)/
 
-The README includes the information of the project. 
+The README.md includes the information of the project. 
 
 
 **Summary**
 
-I found that the Airbnb price shows a seasonal variation. I built a price predictor based on features from the listings table. Among many features I explored the most important features for the price prediction, and study the correlation between these features and the price, such as weekly price, number of bedrooms and bathrooms, reviews per month, cleaning fee and room types. These features can be considered as the most important indictors for evaluating the Airbnb price.
+I found that the Airbnb price shows a seasonal variation. I built a price predictor based on features from the listings table. Among many features I explored the most important features for the price prediction, and study the correlation between these features and the price, such as weekly price, number of bedrooms and bathrooms, reviews per month, cleaning fee, room types and neighbourhood. These features can be considered as the most important indictors for evaluating the Airbnb price.
 
 
 **Blog**
