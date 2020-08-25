@@ -25,6 +25,7 @@ This project used Python 3.8.2 with its update-to-date libraries, including:
     matplotlib
     sklearn
     seaborn
+    gc
 
 I use pip3 install * to install all the libraries. 
 
