@@ -1,8 +1,5 @@
 # Understand the Seattle Airbnb Price
 
-**Project 1**: This project is for the Introduction to Data Science project: **write a data science blog post**. 
-
-
 **Motivation**
 
 From the customer perspective, it is important to better understand the Airbnb price in order to get the best rates. As the first project of the Udacity Data Science Nanodegree, I explored the Airbnb price in Seattle using the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle), and addressed three business questions:
