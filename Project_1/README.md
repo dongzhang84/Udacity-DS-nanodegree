@@ -26,7 +26,7 @@ I use pip3 install * to install all the libraries.
 
 **Files in the Repository**
 
-The code was in [this notebook](https://github.com/dongzhang84/Udacity-DS-nanodegree/blob/master/Project_1/Seattle_Airbnb.ipynb)/
+The code was in [this notebook](https://github.com/dongzhang84/Udacity-DS-nanodegree/blob/master/Project_1/Seattle_Airbnb.ipynb).
 
 The README.md includes the information of the project. 
 
