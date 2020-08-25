@@ -1,6 +1,6 @@
-# Udacity Data Science Nanodegree Project
+# Understand the Seattle Airbnb Price
 
-**Project 1** is for the Introduction to Data Science project: **write a data science blog post**. 
+**Project 1**: This project is for the Introduction to Data Science project: **write a data science blog post**. 
 
 
 **Motivation**
@@ -27,11 +27,6 @@ This project used Python 3.8.2 with its update-to-date libraries, including:
 I use pip3 install * to install all the libraries. 
 
 
-**Dataset**
-
-The data is from the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle). I acknowledgements Kaggle to provide the dataset. 
-
-
 **Files in the Repository**
 
 The code was in [this notebook](https://github.com/dongzhang84/Udacity-DS-nanodegree/blob/master/Project_1/Seattle_Airbnb.ipynb)/
@@ -49,3 +44,8 @@ I found that the Airbnb price shows a seasonal variation. I built a price predic
 The medium blog is here:
 
 https://medium.com/@dongzhanghz/udacity-data-science-project-understand-the-seattle-airbnb-price-aa15e8668764
+
+
+**Acknowledgements**
+
+The data is from the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle). I acknowledgements Kaggle to provide the dataset. 
