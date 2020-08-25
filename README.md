@@ -18,7 +18,7 @@ From the customer perspective, it is important to better understand the Airbnb p
 
 **Requirements**
 
-This project used python with its update-to-date libraries, including:
+This project used Python 3.8.2 with its update-to-date libraries, including:
 
     numpy
     pandas
@@ -31,7 +31,7 @@ I use pip3 install * to install all the libraries.
 
 **Dataset**
 
-From the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle)
+The data is from the kaggle [Seattle Airbnb dataset](https://www.kaggle.com/airbnb/seattle)
 
 
 **Files in the Repository**
@@ -42,7 +42,6 @@ The README includes the information of the project.
 
 
 **Summary**
-
 
 I found that the Airbnb price shows a seasonal variation. I built a price predictor based on features from the listings table. Among many features I explored the most important features for the price prediction, and study the correlation between these features and the price, such as weekly price, number of bedrooms and bathrooms, reviews per month, cleaning fee and room types. These features can be considered as the most important indictors for evaluating the Airbnb price.
 
